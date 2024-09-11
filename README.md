@@ -6,9 +6,9 @@ Sou desenvolvedor de software
 
 apaixonado por tecnologia e sistemas, fico muito feliz quando aprendo ou ensino algo sobre a área.
 
-* 🌍 Estou baseado no Rio de Janeiro
+* 🌍 Moro no Rio de Janeiro
 * ✉️ Você pode entrar em contato comigo pelo [e-mail lf.nandooliveeira@gmail.com](mailto:lf.nandooliveeira@gmail.com)[](mailto:lf.nandooliveeira@gmail.com)
-* 🧠 Estou aprendendo Java Spring Boot
+* 🧠 Estou aprendendo Python e Java como linguagens de programação.
 
 ### Skills
 
