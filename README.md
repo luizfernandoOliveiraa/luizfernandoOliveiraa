@@ -1,14 +1,14 @@
 Olá, meu nome é Luiz Fernando ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-Sou Cientista de Dados
+Sou desenvolvedor Backend 
 -----------------------------
 
 apaixonado por tecnologia e sistemas, fico muito feliz quando aprendo ou ensino algo sobre a área.
 
 * 🌍 Moro no Rio de Janeiro
 * ✉️ Você pode entrar em contato comigo pelo [e-mail lf.nandooliveeira@gmail.com](mailto:lf.nandooliveeira@gmail.com)[](mailto:lf.nandooliveeira@gmail.com)
-* 🧠 Estou aprendendo Python e Java como linguagens de programação.
+* 🧠 Estou aprendendo Java e Python como linguagens de programação.
 
 ### Skills
 
