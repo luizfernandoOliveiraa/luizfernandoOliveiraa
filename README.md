@@ -6,10 +6,6 @@
 
 #### Desenvolvedor backend júnior, apaixonada por resolver problemas e criar soluções eficientes. 
 
-#### Trabalho principalmente com Java, mas também programo em python. 
-
-####  O que me motiva é a possibilidade de aprender algo novo todos os dias. Adoro enfrentar desafios técnicos e encontrar maneiras criativas de superá-los.
-
 #### ✉️ Você pode entrar em contato comigo pelo e-mail lf.nandooliveeira@gmail.com
 ## Skills
 
