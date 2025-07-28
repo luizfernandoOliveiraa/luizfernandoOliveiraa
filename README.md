@@ -1,7 +1,7 @@
 
 # Olá, meu nome é Luiz Fernando
 
-**Atualmente curso ciêcncia da computação, e trabalho com engenharia de dados, utilizando como linguagem prioritaria python, lidando com banco de dados relacionais como postgres e sql server, utilizo também uma stack de dados moderena, que abrange desde databricks a orquestração feita via airflow. Com experiência em cloud computing, tenho trabalhado com azure e aws, para versionamento e devops tenho utilizado ferramentas como git, github actions, docker, terraform, e para testes tenho implementado ferramentas como o pytest e selenium. Outras ferramentas utilizadas são: Dbt, Pydantic, Streamlit, Redis**
+**Atualmente curso ciêcncia da computação, e trabalho com dados, utilizando python, lidando com banco de dados relacionais como postgres e sql server, utilizo também uma stack de dados moderena, que abrange desde databricks a orquestração feita via airflow. Com experiência em cloud computing, tenho trabalhado com azure e aws, para versionamento e devops tenho utilizado ferramentas como git, github actions, docker, terraform, e para testes tenho implementado ferramentas como o pytest e selenium. Outras ferramentas utilizadas são: Dbt, Pydantic, Streamlit, Redis**
 
 #### ✉️ Você pode entrar em contato comigo pelo e-mail lf.nandooliveeira@gmail.com
 ## Skills
