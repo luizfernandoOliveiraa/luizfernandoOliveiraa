@@ -1,27 +1,83 @@
+## 👋 Hi, I'm Luiz Fernando
 
-# Olá, meu nome é Luiz Fernando
+**AI Data Engineer | Data Engineering | GenAI | Azure | Databricks | Airflow | Terraform**
 
-**Atualmente curso ciêcncia da computação, e trabalho com dados, utilizando python, lidando com banco de dados relacionais como postgres e sql server, utilizo também uma stack de dados moderena, que abrange desde databricks a orquestração feita via airflow. Com experiência em cloud computing, tenho trabalhado com azure e aws, para versionamento e devops tenho utilizado ferramentas como git, github actions, docker, terraform, e para testes tenho implementado ferramentas como o pytest e selenium. Outras ferramentas utilizadas são: Dbt, Pydantic, Streamlit, Redis**
+I'm an AI Data Engineer focused on building **scalable data platforms, modern data architectures, and AI-driven applications**, combining data engineering with Generative AI and intelligent systems.
 
-#### ✉️ Você pode entrar em contato comigo pelo e-mail lf.nandooliveeira@gmail.com
-## Skills
+Currently pursuing a degree in Computer Science, I design and develop end-to-end solutions — from data ingestion and processing to powering analytics, APIs, and AI applications.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![PyDantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
-)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-### Socials
+I have hands-on experience with **Data Lakes, Lakehouse Architectures, and GenAI systems (RAG & Agents)**, always prioritizing **scalability, performance, and production-ready design**.
 
-<p align="left"> <a href="https://www.github.com/luizfernandoOliveiraa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/luiz-fernando-oliveira-73048918b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code>
+</div>
+
+## 🚀 What I Do
+
+- 🔹 Build scalable data pipelines (batch and streaming)
+- 🔹 Build RAG and agent-based pipelines
+- 🔹 Design DataOps and LLMOps environments for AI applications
+- 🔹 Design modern data architectures (Medallion, Data Vault, Lakehouse)
+- 🔹 Work with distributed processing using Spark/Databricks
+- 🔹 Orchestrate workflows with Airflow
+- 🔹 Provision infrastructure using Terraform (IaC)
+- 🔹 Deliver data for analytics and AI applications
+- 🔹 Implement CI/CD for data and AI pipelines
+- 🔹 Apply best practices for production-grade data systems
+
+---
+
+## 🧠 Tech Stack
+
+### ⚙️ Data Engineering
+Python • SQL • Spark • Databricks • dbt • Airflow  
+
+### ☁️ Cloud & Infrastructure
+Azure • AWS • Terraform • Docker • Kubernetes  
+
+### 🧪 APIs & Testing
+FastAPI • Pydantic • Pytest • Selenium • Redis  
+
+### 🗄️ Databases
+PostgreSQL • SQL Server • Qdrant  
+
+### 🤖 AI & Agents
+LangChain • LLMs (OpenAI / OSS) • RAG Architectures • Vector Databases • Embeddings • Prompt Engineering • AI Agents • LLMOps  
+
+### 🔄 DevOps
+Git • GitHub Actions  
+
+---
+
+## 📈 Highlights
+
+- 🔹 Experience with modern data stack (Lakehouse + streaming)
+- 🔹 Hands-on with GenAI systems (RAG and Agents)
+- 🔹 Cloud experience (Azure & AWS)
+- 🔹 Infrastructure as Code (Terraform)
+- 🔹 Strong integration between data engineering and AI applications
+- 🔹 Focus on scalability, reliability, and production-ready systems
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: **lf.nandooliveeira@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/luiz-fernando-oliveira-73048918b/
+- 💻 GitHub: https://github.com/luizfernandoOliveiraa
