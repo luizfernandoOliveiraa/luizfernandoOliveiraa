@@ -80,4 +80,3 @@ Git • GitHub Actions
 
 - ✉️ Email: **lf.nandooliveeira@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/luiz-fernando-oliveira-73048918b/
-- 💻 GitHub: https://github.com/luizfernandoOliveiraa
