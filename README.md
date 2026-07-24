@@ -3,7 +3,7 @@
 ### 👀 Sobre mim
 * **Interesses:** Java, Python, Desenvolvimento Backend e Sistemas de Big Data.
 * **Estudando no momento:** Arquitetura de Microservices e Ecossistema Spring.
-* **Metodologias & Práticas:** POO (Programação Orientada a Objetos), TDD (Desenvolvimento Orientado a Testes), Metodologias Ágeis e CI/CD.
+* **Metodologias & Práticas:** POO, TDD, Metodologias Ágeis e CI/CD.
 
 ---
 
