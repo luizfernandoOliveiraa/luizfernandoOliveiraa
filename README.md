@@ -18,7 +18,7 @@ Desenvolvedor backend focado em **sistemas distribuídos e microsserviços**, co
 - 🔭 Trabalhando atualmente em um **motor de crédito e originação de empréstimos**, aplicando DDD, Event Architecture e Hexagonal Architecture.
 - 🌱 Estudando **Java** e me especializando em Spring.
 - 💬 Fale comigo sobre: arquitetura de sistemas, Kafka, Saga Pattern, DDD, ou Clean/Hexagonal Architecture.
-- 
+ 
 ---
 
 ### 🧰 Tech Stack
